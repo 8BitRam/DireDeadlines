@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace DireDeadlines
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for TaskNoteView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class TaskNoteView : UserControl
     {
-        public MainWindow()
+        public TaskNoteView()
         {
             InitializeComponent();
         }
